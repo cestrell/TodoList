@@ -1,9 +1,7 @@
-# React Crash Course (TodoList)
+# TodoList
+Todo list application
 
-This is the code for the crash course on YouTube
-
-## Quick Start
-
+## Setup
 ```bash
 # Install dependencies
 npm install
